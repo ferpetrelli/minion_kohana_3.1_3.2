@@ -1,10 +1,10 @@
+**This version is a modified version to work on kohana 3.1, and 3.2**
+
 # Minion
 
 Minion is a framework for running tasks via the CLI.
 
 The system is inspired by ruckusing, which had a nice system for defining tasks but lacked the desired flexibility for kohana integration.
-
-**This version is a modified version for kohana 3.1, and 3.2**
 
 ## Getting Started
 
